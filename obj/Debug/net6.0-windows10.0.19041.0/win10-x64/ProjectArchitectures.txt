@@ -1,0 +1,1 @@
+C:\Users\Vecro\Desktop\Homeworks\OOP\MyExcelMAUIApp\MyExcelMAUIApp\MyExcelMAUIApp.csproj;x64
